@@ -1,7 +1,9 @@
 <div align="center">
-  <h1>Hi, I'm [Your Name]! 🚀</h1>
-  <p><b>[Your Title/Role]</b></p>
-  <p><i>"[Insert a favorite quote or motto here]"</i></p>
+  <h1>Hi, I'm [Abdul Rafiu]! 🚀</h1>
+  <p><b>[Student]</b></p>
+  <p><i>"[“If you win, you need not have to explain...If you lose, you should not be there to explain!”
+― Adolf Hitler
+]"</i></p>
 
   <a href="[Link to your LinkedIn]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -14,9 +16,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I am currently studying **[Your Degree/Subject]**.
-- 💻 I love writing code in **[Language 1]** and **[Language 2]**.
-- 🛡️ I am interested in **[Field, e.g., Cyber Security/Web Dev]**.
+- 🎓 I am currently studying **[BS-CyberSecurity]**.
+- 💻 I love writing code in **[Python]** and **[C++]**.
+- 🛡️ I am interested in **[Cyber Security/Web Dev]**.
 
 ### 📊 GitHub Stats
 <div align="center">
